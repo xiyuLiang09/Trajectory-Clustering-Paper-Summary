@@ -14,8 +14,9 @@ Summary of papers on Trajectory Clustering
 |5| Evolutionary Clustering of Streaming Trajectories | preprint | 2021 | ECO | [paper](https://arxiv.org/abs/2109.11609) | - |
 |6| Contrastive Clustering | AAAI | 2021 | CC | [paper](https://arxiv.org/abs/2009.09687) ,[code](https://github.com/Yunfan-Li/Contrastive-Clustering) | An online clutering method |
 |7| Online real-time trajectory analysis based on adaptive time interval clustering algorithm | Big Data Mining and Analytics | 2020 | - | [paper](https://ieeexplore.ieee.org/abstract/document/9007874) | - |
-|8| Incremental Clustering for Trajectories | Frontiers of Computer Science | 2018 | OCluST | [paper](https://link.springer.com/article/10.1007/s11704-017-6325-0) | The author is the same as that of `TSCluWin`, and the method is similar to it. |
+|8| Online clustering of streaming trajectories | Frontiers of Computer Science | 2018 | OCluST | [paper](https://link.springer.com/article/10.1007/s11704-017-6325-0) | The author is the same as that of `TSCluWin`, and the method is similar to it. |
 |9| Semantic-Aware Clustering-based Approach of Trajectory Data Stream Mining | ICNC | 2018 | - | [paper](https://ieeexplore.ieee.org/abstract/document/8390371) |
+|| Spatio-Temporal Vessel Trajectory Clustering Based on Data Mapping and Density | IEEE Access | 2018 | - | [paper](https://ieeexplore.ieee.org/abstract/document/8443320) |
 |10| TSCluWin: Trajectory Stream Clustering over Sliding Window | DASFAA | 2016 | TSCluWin | [paper](https://link.springer.com/chapter/10.1007/978-3-319-32049-6_9) |
 |11| CUTiS: optimized online ClUstering of Trajectory data Stream | IDEAS | 2016 | CUTiS | [paper](https://dl.acm.org/doi/abs/10.1145/2938503.2938516) |
 |12| Continuous clustering trajectory stream of moving objects | China Communications | 2013 | - | [paper](https://ieeexplore.ieee.org/abstract/document/6623510) |
