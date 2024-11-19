@@ -6,7 +6,7 @@ Summary of papers on Trajectory Clustering
 ## Online Trajectory Clustering
 
 | Idx | Article | Venue | Date | Method | Link | Note |
-|:-------:|-------|-------|-------|-------|-------|-------|
+|:-------:|-------|:-------:|:-------:|:-------:|:-------:|-------|
 |1| Ocean: Online Clustering and Evolution Analysis for Dynamic Streaming Data | ICDE | 2024 | Ocean | [paper](https://ieeexplore.ieee.org/abstract/document/10598139) | - |
 |2| An Efficient and Distributed Framework for Real-Time Trajectory Stream Clustering | TKDE | 2023 | - | [paper](https://ieeexplore.ieee.org/abstract/document/10239520) | - |
 |3| Towards Adaptive Continuous Trajectory Clustering Over a Distributed Web Data Stream | Journal of Web Engineering | 2023 | ACTOR | [paper](https://ieeexplore.ieee.org/abstract/document/10261474) | - |
